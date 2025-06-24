@@ -1,0 +1,24 @@
+{
+    "name": "VietMediaF Modules",
+    "description": "Các module chính thức cho VietMediaF",
+    "modules": {
+        "tvcn": {
+            "version": "1.1.0",
+            "description": "Module xem phim TVCine",
+            "urls": [
+                "https://raw.githubusercontent.com/vietmediaf/modules/main/tvcn.zip"
+            ],
+            "requires": [],
+            "changelog": "Cập nhật cấu trúc chuẩn mới với main.py"
+        },
+        "tvhd": {
+            "version": "1.1.0",
+            "description": "Module xem phim TVHD",
+            "urls": [
+                "https://github.com/vietmediaf/modules/raw/refs/heads/main/tvhd.zip"
+            ],
+            "requires": [],
+            "changelog": "Cập nhật cấu trúc chuẩn mới với main.py"
+        }
+    }
+}
